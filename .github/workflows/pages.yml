@@ -1,0 +1,23 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12.x'
+    - run: npm i
+    - run: npm run build
+    - run: |
+        git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/devmedoo/d3v0.com.git
+        npx gh-pages -d public -u "github-actions-bot <support+actions@github.com>"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        CI: true

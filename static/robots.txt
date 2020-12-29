@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://d3v0.com/sitemap.xml

@@ -1,0 +1,65 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.f628065b851287e306e5.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-e9d24b1846c7d6eb9685.js
+  Cache-Control: public, max-age=31536000, immutable
+/5fa0d55e9d9c7d3acf59aba41a988c1622328f40-2a468dff81b0b813fcf4.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-d49c1e87ec3b156fc8d1.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-d628c99418f2aca0d082.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-7eac455e357053bc3de8.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-b0556ce5127c1a3e2490.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-37b951e2d721dc646290.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-741ade27086b2708e961.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-f30b76584d768d182f11.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-37b951e2d721dc646290.js>; rel=preload; as=script
+  Link: </framework-741ade27086b2708e961.js>; rel=preload; as=script
+  Link: </app-f30b76584d768d182f11.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </5fa0d55e9d9c7d3acf59aba41a988c1622328f40-2a468dff81b0b813fcf4.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-d49c1e87ec3b156fc8d1.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags
+  Link: </webpack-runtime-37b951e2d721dc646290.js>; rel=preload; as=script
+  Link: </framework-741ade27086b2708e961.js>; rel=preload; as=script
+  Link: </app-f30b76584d768d182f11.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </5fa0d55e9d9c7d3acf59aba41a988c1622328f40-2a468dff81b0b813fcf4.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-d628c99418f2aca0d082.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/hello-world
+  Link: </webpack-runtime-37b951e2d721dc646290.js>; rel=preload; as=script
+  Link: </framework-741ade27086b2708e961.js>; rel=preload; as=script
+  Link: </app-f30b76584d768d182f11.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </5fa0d55e9d9c7d3acf59aba41a988c1622328f40-2a468dff81b0b813fcf4.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-7eac455e357053bc3de8.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/hello-world/page-data.json>; rel=preload; as=fetch; crossorigin
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-37b951e2d721dc646290.js>; rel=preload; as=script
+  Link: </framework-741ade27086b2708e961.js>; rel=preload; as=script
+  Link: </app-f30b76584d768d182f11.js>; rel=preload; as=script
+  Link: </component---cache-caches-gatsby-plugin-offline-app-shell-js-b0556ce5127c1a3e2490.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
